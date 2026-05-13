@@ -1,7 +1,16 @@
-# mhdihso (3.5/15P)
+# mhdihso (7/15P)
 
-## 1 - Karaoke Game (0/7P)
-* no submitted code
+## 1 - Karaoke Game (3.5/7P)
+* frequency detection works correctly and robustly
+    * yep (3P)
+* the game is playable, does not crash, and is (kind of) fun to play
+    * yep (2P)
+* the game tracks some kind of score for correctly sung notes
+    * yep (1P)
+* low latency between input and detection
+    * yep (1P)
+### Late Commmit (13.05.2026)
+* we graded your late commit, but reduced the score by 50% to ensure fairness toward the other students who submitted on time
 
 
 ## 2 - Whistle Input (3.5/7P)
@@ -19,3 +28,4 @@
 * no requirements.txt
 * whistle input script was not named correctly
 * no Readme (this will get a point deduction if it happens in following assignments)
+
